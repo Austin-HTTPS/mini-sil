@@ -1,0 +1,19 @@
+{
+    "name": "djs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dayjs": "^1.11.0",
+        "discord.js": "^14.0.0",
+        "glob": "^7.1.7",
+        "ms": "^2.1.0",
+        "stack": "^0.1.0"
+    }
+}
